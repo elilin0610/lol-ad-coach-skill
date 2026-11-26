@@ -1,5 +1,7 @@
 # LOL AD Coach Skill
 
+**繁體中文** | [English](README.en.md) | [日本語](README.ja.md)
+
 一個以英雄聯盟 AD 玩家情境設計的 **AI 對話教練 Skill**。不是獨立 App、不是遊戲外掛，也沒有串接 Riot API 或自行訓練模型。
 
 ## 內容
