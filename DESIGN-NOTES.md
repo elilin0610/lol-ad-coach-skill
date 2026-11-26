@@ -1,5 +1,7 @@
 # LOL AD Coach｜情境式 AI 教練 Skill
 
+**繁體中文** | [English](DESIGN-NOTES.en.md) | [日本語](DESIGN-NOTES.ja.md)
+
 > 作品類型：對話式 AI 助理的工作流程／Prompt Skill，而非獨立遊戲 App、Riot API 服務或訓練完成的遊戲 AI。
 
 ## 這個專案在做什麼？

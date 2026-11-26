@@ -1,5 +1,7 @@
 # Generic player profile template
 
+[繁體中文](player-profile.zh-Hant.md) | **English** | [日本語](player-profile.ja.md)
+
 This is a fictional, editable template, not the author's private account history.
 
 - Region: Taiwan
